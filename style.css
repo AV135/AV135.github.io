@@ -10,27 +10,23 @@
 
 
 
-
   
   
-background-color: darkgreen;
   
-}
-
-body{
 
 
-}
 img{
   width: 56%;
   height: 56%;
 }
 body{
-  background-image:url(https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/optimized/4X/8/8/5/885fd438e7bcdb9bde0c942825c264b37642d1f8_2_690x384.jpeg) 
+   background-repeat: no-repeat;
+  background-size: 100%;
+
+  background-image:url(https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/optimized/4X/6/b/f/6bfa07d53be8f3e7bf41c7f9f791190ca741ad68_2_656x500.jpeg) 
   
 }
 
-}
 
 
 h1{
